@@ -1,0 +1,48 @@
+{
+	"game": {
+		"name": "ToponBridge",
+		"appid": "618327652",
+		"cid": "0"
+	},
+	"configs": [
+		{
+			"appid": "618327652",
+			"services": [
+				{
+					"service_id": "278",
+					"enable": false,
+					"params": {
+						"currentConfigId": "7b1583",
+						"config": {
+							"id": "7b1583",
+							"name": "HUAWEI  AppGallery Connect",
+							"platform": "3",
+							"channelID": "161221",
+							"channelName": "HUAWEI  AppGallery Connect",
+							"remarks": "",
+							"plugins": [
+								{
+									"hasParam": false,
+									"pParam": {},
+									"pId": "2412",
+									"pName": "HUAWEI_HMS",
+									"packageName": "huawei-hms",
+									"pType": 30,
+									"pUseType": 30,
+									"hasLocal": false,
+									"hasUpdate": false,
+									"requireParam": true,
+									"pVersion": "Not Installed",
+									"isInstall": true
+								}
+							]
+						},
+						"appid": "618327652",
+						"plugin_version": "0.7.0_0.1.1"
+					}
+				}
+			]
+		}
+	],
+	"needExecNative": true
+}
