@@ -3,8 +3,9 @@ Cocos Creator接入指南
 https://newdocs.toponad.com/docs/cocoscreator
 Android SDK广告下载
 https://docs.toponad.com/#/zh-cn/android/download/package
-Android 打包报错解决方案
 
+
+Android 打包报错解决方案
 报错
 Duplicate class com.google.common.util.concurrent.ListenableFuture
 解决方案:https://www.jianshu.com/p/aa82a1d80380
