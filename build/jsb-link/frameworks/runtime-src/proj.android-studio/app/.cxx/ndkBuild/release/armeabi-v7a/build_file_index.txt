@@ -1,0 +1,2 @@
+D:\COCOS\github\Creater2xToponBridge\build\jsb-link\frameworks\runtime-src\proj.android-studio\app\jni\Android.mk
+D:\COCOS\github\Creater2xToponBridge\build\jsb-link\frameworks\runtime-src\proj.android-studio\app\jni\Application.mk

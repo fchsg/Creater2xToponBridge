@@ -1,0 +1,21 @@
+Executable : C:\Users\ej.frankzn\AppData\Local\Android\Sdk\ndk\26.1.10909125\ndk-build.cmd
+arguments : 
+NDK_PROJECT_PATH=null
+APP_BUILD_SCRIPT=D:\COCOS\github\Creater2xToponBridge\build\jsb-link\frameworks\runtime-src\proj.android-studio\instantapp\jni\Android.mk
+NDK_APPLICATION_MK=D:\COCOS\github\Creater2xToponBridge\build\jsb-link\frameworks\runtime-src\proj.android-studio\instantapp\jni\Application.mk
+APP_ABI=armeabi-v7a
+NDK_ALL_ABIS=armeabi-v7a
+NDK_DEBUG=1
+APP_PLATFORM=android-29
+NDK_OUT=D:/COCOS/github/Creater2xToponBridge/build/jsb-link/frameworks/runtime-src/proj.android-studio/instantapp/build/intermediates/ndkBuild/debug/obj
+NDK_LIBS_OUT=D:\COCOS\github\Creater2xToponBridge\build\jsb-link\frameworks\runtime-src\proj.android-studio\instantapp\build\intermediates\ndkBuild\debug\lib
+NDK_TOOLCHAIN_VERSION=clang
+NDK_MODULE_PATH=C:\ProgramData\cocos\editors\Creator\2.4.12\resources\cocos2d-x;C:\ProgramData\cocos\editors\Creator\2.4.12\resources\cocos2d-x\cocos;C:\ProgramData\cocos\editors\Creator\2.4.12\resources\cocos2d-x\external
+-j8
+NDK_DEBUG=1
+APP_SHORT_COMMANDS=false
+LOCAL_SHORT_COMMANDS=false
+-B
+-n
+jvmArgs : 
+
