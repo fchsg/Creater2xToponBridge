@@ -6,6 +6,18 @@ buildscript {
         google()
         mavenCentral()
 //        jcenter()
+        //Mintegral
+        maven {
+            url "https://dl-maven-android.mintegral.com/repository/mbridge_android_sdk_oversea"
+        }
+
+        //Chartboost
+        maven {
+            url "https://cboost.jfrog.io/artifactory/chartboost-ads"
+        }
+        maven {
+            url "https://cboost.jfrog.io/artifactory/chartboost-mediation"
+        }
     }
     dependencies {
         classpath 'com.android.tools.build:gradle:4.2.2'

@@ -24,22 +24,42 @@ THE SOFTWARE.
 ****************************************************************************/
 package org.cocos2dx.javascript;
 
+import static android.app.Application.getProcessName;
+
 import org.cocos2dx.lib.Cocos2dxActivity;
 import org.cocos2dx.lib.Cocos2dxGLSurfaceView;
 
+import android.os.Build;
 import android.os.Bundle;
 
 import android.content.Intent;
 import android.content.res.Configuration;
+import android.webkit.WebView;
+
+import com.anythink.core.api.ATSDK;
 
 public class AppActivity extends Cocos2dxActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+
+
+        //Topon Android 9及以上必须设置 添加Webview设置
+        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.P) {
+            String processName = getProcessName();
+            if (!getPackageName().equals(processName)) {
+                WebView.setDataDirectorySuffix(processName);
+            }
+        }
+        //Debug-------------------- sdk集成测试
+        //ATSDK.setNetworkLogDebug(true);
+        //ATSDK.integrationChecking(getApplicationContext());
+        //Debug-------------------- 检测sdk集成
+
+
         // DO OTHER INITIALIZATION BELOW
         SDKWrapper.getInstance().init(this);
-
     }
 
     @Override

@@ -23,6 +23,7 @@
     "soFolder": "D:\\COCOS\\github\\Creater2xToponBridge\\build\\jsb-link\\frameworks\\runtime-src\\proj.android-studio\\instantapp\\build\\intermediates\\ndkBuild\\release\\lib",
     "isDebuggableEnabled": false,
     "validAbiList": [
+      "ARMEABI_V7A",
       "ARM64_V8A"
     ],
     "buildTargetSet": [

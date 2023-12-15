@@ -86,6 +86,18 @@ android {
             }
         }
 
+        packagingOptions {
+            exclude("META-INF/DEPENDENCIES")
+            exclude("META-INF/LICENSE")
+            exclude("META-INF/LICENSE.txt")
+            exclude("META-INF/license.txt")
+            exclude("META-INF/NOTICE")
+            exclude("META-INF/NOTICE.txt")
+            exclude("META-INF/notice.txt")
+            exclude("META-INF/ASL2.0")
+            exclude("META-INF/*.kotlin_module")
+        }
+
         debug {
             debuggable true
             jniDebuggable true
@@ -130,9 +142,9 @@ dependencies {
 
     //implementation 'com.google.guava:guava:27.0.1-android'  //解决报错 Duplicate class com.google.common.util.concurrent.ListenableFuture found in modules jetified-listenablefuture-1.0 (com.google.guava:listenablefuture:1.0) and jetified-listenablefuture-1.0 (listenablefuture-1.0.jar)
 
-    implementation 'com.google.guava:listenablefuture:9999.0-empty-to-avoid-conflict-with-guava'  //https://www.jianshu.com/p/aa82a1d80380
+    implementation 'com.google.guava:listenablefuture:9999.0-empty-to-avoid-conflict-with-guava'
 
-    api fileTree(include: ['*.jar','*.aar'], dir: 'libs')
+    //api fileTree(include: ['*.jar','*.aar'], dir: 'libs')
 
     //Androidx (Necessary)
     api "androidx.appcompat:appcompat:1.1.0"
@@ -143,5 +155,18 @@ dependencies {
     api "androidx.lifecycle:lifecycle-process:2.5.1"
     api "androidx.webkit:webkit:1.6.1"
 
+    //Inmobi
+    api "androidx.recyclerview:recyclerview:1.1.0"
+    api "org.jetbrains.kotlin:kotlin-reflect:1.7.20"
+    api "androidx.core:core-ktx:1.5.0"
+
+    //Chartboost
+    api "org.jetbrains.kotlinx:kotlinx-coroutines-android:1.6.4"
+    api "org.jetbrains.kotlinx:kotlinx-serialization-json:1.4.1"
+    api "com.google.android.exoplayer:exoplayer-core:2.18.7"
+
+    //Yandex
+    api "androidx.transition:transition:1.2.0"
+    api "io.appmetrica.analytics:analytics:6.0.0"
 
 }

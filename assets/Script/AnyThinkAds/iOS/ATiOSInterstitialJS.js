@@ -1,4 +1,4 @@
-var ATiOSJS = require("assets/Script/AnyThinkAds/iOS/ATiOSJS");
+var ATiOSJS = require("ATiOSJS");
 const OC_WRAPPER_CLASS = "ATInterstitialAdWrapper";
 var ATiOSInterstitialJS = ATiOSInterstitialJS || {
     loadInterstitial : function (placementId, extra) {

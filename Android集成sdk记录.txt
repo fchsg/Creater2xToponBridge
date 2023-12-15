@@ -1,0 +1,153 @@
+2023-12-15 16:03:11.595 27537-27625/com.nx.topon E/anythink: Missing: LocalBroadcastManager
+2023-12-15 16:03:13.175 27537-27625/com.nx.topon I/anythink: ********************************** Network Integration Status *************************************
+2023-12-15 16:03:13.175 27537-27625/com.nx.topon I/anythink: ----------------------------------------
+2023-12-15 16:03:13.187 27537-27625/com.nx.topon I/anythink: NetworkName: AdColony
+2023-12-15 16:03:13.187 27537-27625/com.nx.topon I/anythink: SDK: VERIFIED
+2023-12-15 16:03:13.187 27537-27625/com.nx.topon I/anythink: Dependence Plugin: VERIFIED
+2023-12-15 16:03:13.188 27537-27625/com.nx.topon I/anythink: Adapter Version: VERIFIED
+2023-12-15 16:03:13.189 27537-27625/com.nx.topon I/anythink: Status: Success
+2023-12-15 16:03:13.189 27537-27625/com.nx.topon I/anythink: ----------------------------------------
+2023-12-15 16:03:13.198 27537-27625/com.nx.topon I/anythink: NetworkName: Admob  (v22.5.0)
+2023-12-15 16:03:13.198 27537-27625/com.nx.topon I/anythink: SDK: VERIFIED
+2023-12-15 16:03:13.198 27537-27625/com.nx.topon I/anythink: Dependence Plugin: VERIFIED
+2023-12-15 16:03:13.198 27537-27625/com.nx.topon I/anythink: meta-data: VERIFIED
+2023-12-15 16:03:13.198 27537-27625/com.nx.topon I/anythink: Adapter Version: VERIFIED
+2023-12-15 16:03:13.198 27537-27625/com.nx.topon I/anythink: Status: Success
+2023-12-15 16:03:13.198 27537-27625/com.nx.topon I/anythink: ----------------------------------------
+2023-12-15 16:03:13.199 27537-27625/com.nx.topon I/anythink: NetworkName: Adx
+2023-12-15 16:03:13.199 27537-27625/com.nx.topon I/anythink: SDK: VERIFIED
+2023-12-15 16:03:13.200 27537-27625/com.nx.topon I/anythink: Resource: VERIFIED
+2023-12-15 16:03:13.200 27537-27625/com.nx.topon I/anythink: Adapter Version: VERIFIED
+2023-12-15 16:03:13.200 27537-27625/com.nx.topon I/anythink: Status: Success
+2023-12-15 16:03:13.200 27537-27625/com.nx.topon I/anythink: ----------------------------------------
+2023-12-15 16:03:13.202 27537-27625/com.nx.topon I/anythink: NetworkName: Applovin  (v12.0.0)
+2023-12-15 16:03:13.202 27537-27625/com.nx.topon I/anythink: SDK: VERIFIED
+2023-12-15 16:03:13.202 27537-27625/com.nx.topon I/anythink: Adapter Version: VERIFIED
+2023-12-15 16:03:13.202 27537-27625/com.nx.topon I/anythink: Status: Success
+2023-12-15 16:03:13.202 27537-27625/com.nx.topon I/anythink: ----------------------------------------
+2023-12-15 16:03:13.207 27537-27625/com.nx.topon I/anythink: NetworkName: BigoAds  (v4.2.0)
+2023-12-15 16:03:13.207 27537-27625/com.nx.topon I/anythink: SDK: VERIFIED
+2023-12-15 16:03:13.207 27537-27625/com.nx.topon I/anythink: Adapter Version: VERIFIED
+2023-12-15 16:03:13.207 27537-27625/com.nx.topon I/anythink: Status: Success
+2023-12-15 16:03:13.207 27537-27625/com.nx.topon I/anythink: ----------------------------------------
+2023-12-15 16:03:13.211 27537-27625/com.nx.topon I/anythink: NetworkName: Chartboost  (v9.5.0)
+2023-12-15 16:03:13.211 27537-27625/com.nx.topon I/anythink: SDK: VERIFIED
+2023-12-15 16:03:13.211 27537-27625/com.nx.topon I/anythink: Dependence Plugin: VERIFIED
+2023-12-15 16:03:13.215 27537-27625/com.nx.topon I/anythink: Activities : VERIFIED
+2023-12-15 16:03:13.215 27537-27625/com.nx.topon I/anythink: Adapter Version: VERIFIED
+2023-12-15 16:03:13.215 27537-27625/com.nx.topon I/anythink: Status: Success
+2023-12-15 16:03:13.216 27537-27625/com.nx.topon I/anythink: ----------------------------------------
+2023-12-15 16:03:13.217 27537-27625/com.nx.topon I/anythink: NetworkName: Facebook  (v6.16.0)
+2023-12-15 16:03:13.218 27537-27625/com.nx.topon I/anythink: SDK: VERIFIED
+2023-12-15 16:03:13.218 27537-27625/com.nx.topon I/anythink: Adapter Version: VERIFIED
+2023-12-15 16:03:13.218 27537-27625/com.nx.topon I/anythink: Status: Success
+2023-12-15 16:03:13.218 27537-27625/com.nx.topon I/anythink: ----------------------------------------
+2023-12-15 16:03:13.228 27537-27625/com.nx.topon I/anythink: NetworkName: Fyber  (v8.2.3)
+2023-12-15 16:03:13.228 27537-27625/com.nx.topon I/anythink: SDK: VERIFIED
+2023-12-15 16:03:13.228 27537-27625/com.nx.topon I/anythink: Dependence Plugin: VERIFIED
+2023-12-15 16:03:13.228 27537-27625/com.nx.topon I/anythink: Adapter Version: VERIFIED
+2023-12-15 16:03:13.228 27537-27625/com.nx.topon I/anythink: Status: Success
+2023-12-15 16:03:13.228 27537-27625/com.nx.topon I/anythink: ----------------------------------------
+2023-12-15 16:03:13.293 27537-27625/com.nx.topon I/anythink: NetworkName: Helium  (v4.7.0)
+2023-12-15 16:03:13.293 27537-27625/com.nx.topon I/anythink: SDK: VERIFIED
+2023-12-15 16:03:13.293 27537-27625/com.nx.topon I/anythink: Adapter Version: VERIFIED
+2023-12-15 16:03:13.293 27537-27625/com.nx.topon I/anythink: Status: Success
+2023-12-15 16:03:13.293 27537-27625/com.nx.topon I/anythink: ----------------------------------------
+2023-12-15 16:03:13.295 27537-27625/com.nx.topon I/anythink: NetworkName: Huawei(HMS)  (v13.4.67.300)
+2023-12-15 16:03:13.295 27537-27625/com.nx.topon I/anythink: SDK: VERIFIED
+2023-12-15 16:03:13.296 27537-27625/com.nx.topon I/anythink: Adapter Version: VERIFIED
+2023-12-15 16:03:13.296 27537-27625/com.nx.topon I/anythink: Status: Success
+2023-12-15 16:03:13.296 27537-27625/com.nx.topon I/anythink: ----------------------------------------
+2023-12-15 16:03:13.304 27537-27625/com.nx.topon I/anythink: NetworkName: Inmobi  (v10.6.2)
+2023-12-15 16:03:13.304 27537-27625/com.nx.topon I/anythink: SDK: VERIFIED
+2023-12-15 16:03:13.304 27537-27625/com.nx.topon I/anythink: Dependence Plugin: VERIFIED
+2023-12-15 16:03:13.312 27537-27625/com.nx.topon I/anythink: Activities : VERIFIED
+2023-12-15 16:03:13.315 27537-27625/com.nx.topon I/anythink: Providers : VERIFIED
+2023-12-15 16:03:13.315 27537-27625/com.nx.topon I/anythink: Adapter Version: VERIFIED
+2023-12-15 16:03:13.315 27537-27625/com.nx.topon I/anythink: Status: Success
+2023-12-15 16:03:13.315 27537-27625/com.nx.topon I/anythink: ----------------------------------------
+2023-12-15 16:03:13.318 27537-27625/com.nx.topon I/anythink: NetworkName: Ironsource  (v7.5.2)
+2023-12-15 16:03:13.328 27537-27625/com.nx.topon I/anythink: SDK: VERIFIED
+2023-12-15 16:03:13.328 27537-27625/com.nx.topon I/anythink: Adapter Version: VERIFIED
+2023-12-15 16:03:13.328 27537-27625/com.nx.topon I/anythink: Status: Success
+2023-12-15 16:03:13.328 27537-27625/com.nx.topon I/anythink: ----------------------------------------
+2023-12-15 16:03:13.340 27537-27625/com.nx.topon I/anythink: NetworkName: Kidoz  (v8.9.7)
+2023-12-15 16:03:13.341 27537-27625/com.nx.topon I/anythink: SDK: VERIFIED
+2023-12-15 16:03:13.345 27537-27625/com.nx.topon I/anythink: Activities : VERIFIED
+2023-12-15 16:03:13.345 27537-27625/com.nx.topon I/anythink: Adapter Version: VERIFIED
+2023-12-15 16:03:13.345 27537-27625/com.nx.topon I/anythink: Status: Success
+2023-12-15 16:03:13.345 27537-27625/com.nx.topon I/anythink: ----------------------------------------
+2023-12-15 16:03:13.352 27537-27625/com.nx.topon I/anythink: NetworkName: Maio  (v1.1.16)
+2023-12-15 16:03:13.352 27537-27625/com.nx.topon I/anythink: SDK: VERIFIED
+2023-12-15 16:03:13.352 27537-27625/com.nx.topon I/anythink: Dependence Plugin: VERIFIED
+2023-12-15 16:03:13.352 27537-27625/com.nx.topon I/anythink: Adapter Version: VERIFIED
+2023-12-15 16:03:13.352 27537-27625/com.nx.topon I/anythink: Status: Success
+2023-12-15 16:03:13.352 27537-27625/com.nx.topon I/anythink: ----------------------------------------
+2023-12-15 16:03:13.362 27537-27625/com.nx.topon I/anythink: NetworkName: Mintegral  (vMAL_16.5.61)
+2023-12-15 16:03:13.362 27537-27625/com.nx.topon I/anythink: SDK: VERIFIED
+2023-12-15 16:03:13.363 27537-27625/com.nx.topon I/anythink: Dependence Plugin: VERIFIED
+2023-12-15 16:03:13.363 27537-27625/com.nx.topon I/anythink: Resource: VERIFIED
+2023-12-15 16:03:13.364 27537-27625/com.nx.topon I/anythink: Adapter Version: VERIFIED
+2023-12-15 16:03:13.364 27537-27625/com.nx.topon I/anythink: Status: Success
+2023-12-15 16:03:13.364 27537-27625/com.nx.topon I/anythink: ----------------------------------------
+2023-12-15 16:03:13.365 27537-27625/com.nx.topon I/anythink: NetworkName: MyTarget  (v5.19.0)
+2023-12-15 16:03:13.365 27537-27625/com.nx.topon I/anythink: SDK: VERIFIED
+2023-12-15 16:03:13.365 27537-27625/com.nx.topon I/anythink: Dependence Plugin: VERIFIED
+2023-12-15 16:03:13.365 27537-27625/com.nx.topon I/anythink: Adapter Version: VERIFIED
+2023-12-15 16:03:13.365 27537-27625/com.nx.topon I/anythink: Status: Success
+2023-12-15 16:03:13.365 27537-27625/com.nx.topon I/anythink: ----------------------------------------
+2023-12-15 16:03:13.367 27537-27625/com.nx.topon I/anythink: NetworkName: Nend  (v7.0.3)
+2023-12-15 16:03:13.376 27537-27625/com.nx.topon I/anythink: SDK: VERIFIED
+2023-12-15 16:03:13.376 27537-27625/com.nx.topon I/anythink: Dependence Plugin: VERIFIED
+2023-12-15 16:03:13.377 27537-27625/com.nx.topon I/anythink: Adapter Version: VERIFIED
+2023-12-15 16:03:13.377 27537-27625/com.nx.topon I/anythink: Status: Success
+2023-12-15 16:03:13.377 27537-27625/com.nx.topon I/anythink: ----------------------------------------
+2023-12-15 16:03:13.380 27537-27625/com.nx.topon I/anythink: NetworkName: Ogury  (v5.2.0)
+2023-12-15 16:03:13.380 27537-27625/com.nx.topon I/anythink: SDK: VERIFIED
+2023-12-15 16:03:13.381 27537-27625/com.nx.topon I/anythink: Adapter Version: VERIFIED
+2023-12-15 16:03:13.381 27537-27625/com.nx.topon I/anythink: Status: Success
+2023-12-15 16:03:13.381 27537-27625/com.nx.topon I/anythink: ----------------------------------------
+2023-12-15 16:03:13.413 27537-27625/com.nx.topon I/anythink: NetworkName: Pangle  (v5.6.0.1)
+2023-12-15 16:03:13.413 27537-27625/com.nx.topon I/anythink: SDK: VERIFIED
+2023-12-15 16:03:13.413 27537-27625/com.nx.topon I/anythink: Adapter Version: VERIFIED
+2023-12-15 16:03:13.413 27537-27625/com.nx.topon I/anythink: Status: Success
+2023-12-15 16:03:13.413 27537-27625/com.nx.topon I/anythink: ----------------------------------------
+2023-12-15 16:03:13.418 27537-27625/com.nx.topon I/anythink: NetworkName: PubNative  (v2.19.0)
+2023-12-15 16:03:13.430 27537-27625/com.nx.topon I/anythink: SDK: VERIFIED
+2023-12-15 16:03:13.430 27537-27625/com.nx.topon I/anythink: Adapter Version: VERIFIED
+2023-12-15 16:03:13.430 27537-27625/com.nx.topon I/anythink: Status: Success
+2023-12-15 16:03:13.430 27537-27625/com.nx.topon I/anythink: ----------------------------------------
+2023-12-15 16:03:13.432 27537-27625/com.nx.topon I/anythink: NetworkName: StartApp  (v4.10.7)
+2023-12-15 16:03:13.432 27537-27625/com.nx.topon I/anythink: SDK: VERIFIED
+2023-12-15 16:03:13.432 27537-27625/com.nx.topon I/anythink: Adapter Version: VERIFIED
+2023-12-15 16:03:13.432 27537-27625/com.nx.topon I/anythink: Status: Success
+2023-12-15 16:03:13.432 27537-27625/com.nx.topon I/anythink: ----------------------------------------
+2023-12-15 16:03:13.444 27537-27625/com.nx.topon I/anythink: NetworkName: Tapjoy  (v12.10.0)
+2023-12-15 16:03:13.444 27537-27625/com.nx.topon I/anythink: SDK: VERIFIED
+2023-12-15 16:03:13.444 27537-27625/com.nx.topon I/anythink: Dependence Plugin: VERIFIED
+2023-12-15 16:03:13.460 27537-27625/com.nx.topon I/anythink: Activities : VERIFIED
+2023-12-15 16:03:13.460 27537-27625/com.nx.topon I/anythink: Adapter Version: VERIFIED
+2023-12-15 16:03:13.460 27537-27625/com.nx.topon I/anythink: Status: Success
+2023-12-15 16:03:13.460 27537-27625/com.nx.topon I/anythink: ----------------------------------------
+2023-12-15 16:03:13.461 27537-27625/com.nx.topon I/anythink: NetworkName: Pangle  (v5.6.0.1)
+2023-12-15 16:03:13.461 27537-27625/com.nx.topon I/anythink: SDK: VERIFIED
+2023-12-15 16:03:13.461 27537-27625/com.nx.topon I/anythink: Adapter Version: VERIFIED
+2023-12-15 16:03:13.462 27537-27625/com.nx.topon I/anythink: Status: Success
+2023-12-15 16:03:13.462 27537-27625/com.nx.topon I/anythink: ----------------------------------------
+2023-12-15 16:03:13.683 27537-27625/com.nx.topon I/anythink: NetworkName: UnityAds
+2023-12-15 16:03:13.683 27537-27625/com.nx.topon I/anythink: SDK: VERIFIED
+2023-12-15 16:03:13.683 27537-27625/com.nx.topon I/anythink: Adapter Version: VERIFIED
+2023-12-15 16:03:13.683 27537-27625/com.nx.topon I/anythink: Status: Success
+2023-12-15 16:03:13.683 27537-27625/com.nx.topon I/anythink: ----------------------------------------
+2023-12-15 16:03:13.696 27537-27625/com.nx.topon I/anythink: NetworkName: Vungle  (v7.0.0)
+2023-12-15 16:03:13.696 27537-27625/com.nx.topon I/anythink: SDK: VERIFIED
+2023-12-15 16:03:13.706 27537-27625/com.nx.topon I/anythink: Dependence Plugin: VERIFIED
+2023-12-15 16:03:13.707 27537-27625/com.nx.topon I/anythink: Adapter Version: VERIFIED
+2023-12-15 16:03:13.707 27537-27625/com.nx.topon I/anythink: Status: Success
+2023-12-15 16:03:13.707 27537-27625/com.nx.topon I/anythink: ----------------------------------------
+2023-12-15 16:03:13.710 27537-27625/com.nx.topon I/anythink: NetworkName: Yandex  (v6.2.0)
+2023-12-15 16:03:13.710 27537-27625/com.nx.topon I/anythink: SDK: VERIFIED
+2023-12-15 16:03:13.710 27537-27625/com.nx.topon I/anythink: Adapter Version: VERIFIED
+2023-12-15 16:03:13.710 27537-27625/com.nx.topon I/anythink: Status: Success
+2023-12-15 16:03:13.710 27537-27625/com.nx.topon I/anythink: ----------------------------------------
+2023-12-15 16:03:13.710 27537-27625/com.nx.topon I/anythink: ********************************** Network Integration Status *************************************

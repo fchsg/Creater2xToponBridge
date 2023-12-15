@@ -1,4 +1,4 @@
-var ATiOSJS = require("assets/Script/AnyThinkAds/iOS/ATiOSJS");
+var ATiOSJS = require("ATiOSJS");
 const OC_RV_WRAPPER_CLASS = "ATRewardedVideoAutoAdWrapper";
 
 var ATiOSRewardedVideoAutoAdJS = ATiOSRewardedVideoAutoAdJS || {

@@ -8,7 +8,8 @@
     <uses-permission android:name="android.permission.INTERNET"/>
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
     <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
-<!--    <uses-permission android:name="com.google.android.gms.permission.AD_ID" />-->
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="com.google.android.gms.permission.AD_ID" /> <!--非中国区SDK必要权限-->
 
     <application
         android:allowBackup="true"
@@ -41,12 +42,15 @@
             android:authorities="${applicationId}.androidx-startup"
             tools:node="remove" />
 
-
         <!-- source file: nonchina/network_sdk/admob/22.5.0/AndroidManifest.xml -->
         <!--google-->
-<!--        <meta-data-->
-<!--            android:name="com.google.android.gms.ads.AD_MANAGER_APP"-->
-<!--            android:value="true" />-->
+        <meta-data
+            android:name="com.google.android.gms.ads.AD_MANAGER_APP"
+            android:value="true" />
+ <!--       admob  修改id-->
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-3940256099942544~3347511713"/>
 
     </application>
     
